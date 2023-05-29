@@ -1,0 +1,4 @@
+let a=7 in
+let b=9 in 
+let c=10 in
+if (5*3)=15 then (b+1)=10 else (c-1)<5 

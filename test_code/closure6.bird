@@ -1,0 +1,10 @@
+def f a =
+  a
+end
+
+def g b c d =
+  b * c + d
+end
+
+let j = g 2 in
+j 5 3

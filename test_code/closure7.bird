@@ -1,0 +1,5 @@
+def f a =
+  a * 8
+end
+
+f 6 (f 5)

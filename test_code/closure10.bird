@@ -1,0 +1,9 @@
+def f x =
+  x * 2
+end
+
+def g y =
+  y + 69
+end
+
+f (g 420)

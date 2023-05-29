@@ -1,0 +1,9 @@
+def f x =
+  x
+end
+
+def g y =
+  f y
+end
+
+g 5

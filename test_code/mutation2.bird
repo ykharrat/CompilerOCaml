@@ -1,0 +1,4 @@
+let t = (6,1,2) in
+let x = (t[t[1]] := 69) in
+let y = (t[2] := 420) in
+t

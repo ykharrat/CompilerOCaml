@@ -1,0 +1,6 @@
+def f x =
+  x * 2
+end
+
+let t = (f[0] := 69) in
+t

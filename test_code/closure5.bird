@@ -1,0 +1,9 @@
+def f a =
+  a * 2
+end
+
+def g f b =
+  f b * 2
+end
+
+g f
